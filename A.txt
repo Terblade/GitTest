@@ -1,0 +1,5 @@
+This is just a test for git
+
+1. this is Function 1
+
+2. this is Function 2
