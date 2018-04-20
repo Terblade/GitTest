@@ -7,3 +7,5 @@ This is just a test for git
 3. this is Function 3.1
 
 4. master branch add Function
+
+远端增加一行代码
