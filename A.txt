@@ -13,3 +13,6 @@ This is just a test for git
 远端增加一行代码
 
 remote add Function
+
+local add function
+
